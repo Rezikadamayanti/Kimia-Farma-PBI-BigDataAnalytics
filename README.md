@@ -24,13 +24,13 @@ The dataset consists of four main tables:
  ![f](https://raw.githubusercontent.com/Rezikadamayanti/Archival-Documentation-Project/main/pbi/kf_final_transaction.png?token=GHSAT0AAAAAACSEYN53NKMJDHJMB6GCQ2EEZR7KQ3Q)
 
 2. **kf_inventory**: This table stores information about the inventory of medicinal products in each Kimia Farma branch. This includes inventory ID, branch ID, product ID, product name, and the number of medicinal product stocks available at each branch.
-  ![i](https://github.com/Rezikadamayanti/Archival-Documentation-Project/blob/main/pbi/kf_inventory.png)
+  ![i](https://raw.githubusercontent.com/Rezikadamayanti/Archival-Documentation-Project/main/pbi/kf_inventory.png?token=GHSAT0AAAAAACSEYN52KPJEV7LGKKBW6SPKZR7KSGA)
 
 3. **kf_office_branch**: This table contains information about Kimia Farma branch offices. Each row includes details such as branch ID, branch category, branch name, branch city, branch province, and customer rating of the branch.
-   ![t](https://github.com/Rezikadamayanti/Archival-Documentation-Project/blob/main/pbi/kf_kantor_cabang.png)
+   ![t](https://raw.githubusercontent.com/Rezikadamayanti/Archival-Documentation-Project/main/pbi/kf_kantor_cabang.png?token=GHSAT0AAAAAACSEYN53JMCR5CJXBHYVUYJCZR7KSTQ)
    
 4. **kf_product**: This table contains information about medicinal products sold at Kimia Farma. Each row includes details such as product ID, product name, product category, and product price.
-    ![f](https://github.com/Rezikadamayanti/Archival-Documentation-Project/blob/main/pbi/kf_product.png)
+    ![f](https://raw.githubusercontent.com/Rezikadamayanti/Archival-Documentation-Project/main/pbi/kf_product.png?token=GHSAT0AAAAAACSEYN53KB6N4FMJHG4CDDHKZR7KS6Q)
 
 
 ## C. Create and analyze Data Mart: Analysis Tables
