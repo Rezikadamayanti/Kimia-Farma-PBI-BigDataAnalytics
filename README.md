@@ -29,7 +29,7 @@ The dataset consists of four main tables:
    ![t](https://raw.githubusercontent.com/Rezikadamayanti/Archival-Documentation-Project/main/pbi/kf_kantor_cabang.png?token=GHSAT0AAAAAACSEYN52YX3FWZKUU6D36A2UZR7MEVA)
    
 4. **kf_product**: This table contains information about medicinal products sold at Kimia Farma. Each row includes details such as product ID, product name, product category, and product price.
-    ![f](https://raw.githubusercontent.com/Rezikadamayanti/Archival-Documentation-Project/main/pbi/kf_product.png?token=GHSAT0AAAAAACSEYN52TSQHAHOTH7VVT76AZR7ME7Q)
+    ![p](https://raw.githubusercontent.com/Rezikadamayanti/Archival-Documentation-Project/main/pbi/kf_product.png?token=GHSAT0AAAAAACSEYN52TSQHAHOTH7VVT76AZR7ME7Q)
 
 
 ## C. Create and analyze Data Mart: Analysis Tables
@@ -37,11 +37,15 @@ The requirements for creating a Data Mart named Analysis Table have been provide
 - [Query Data Mart - Analysis Table](https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/blob/main/Query%20DM%20-%20Analysis%20Table.sql)<br>
 - [Google BigQuery - Analysis Table](https://console.cloud.google.com/bigquery?sq=516129896092:caf01154b224482ba6a591bd3af72352) <br>
 
-    ![f](https://raw.githubusercontent.com/Rezikadamayanti/Archival-Documentation-Project/main/pbi/query.png?token=GHSAT0AAAAAACSEYN53ZLMHGLLWQMY6WK2WZR7MFKA)
-    ![f](https://raw.githubusercontent.com/Rezikadamayanti/Archival-Documentation-Project/main/pbi/query2.png?token=GHSAT0AAAAAACSEYN536LRNEF4ZXYIK3ZDEZR7MFRQ)
+    ![Q](https://raw.githubusercontent.com/Rezikadamayanti/Archival-Documentation-Project/main/pbi/query.png?token=GHSAT0AAAAAACSEYN53ZLMHGLLWQMY6WK2WZR7MFKA)
+    ![G](https://raw.githubusercontent.com/Rezikadamayanti/Archival-Documentation-Project/main/pbi/query2.png?token=GHSAT0AAAAAACSEYN536LRNEF4ZXYIK3ZDEZR7MFRQ)
 
 
 ## D. Exploratory Data Analysis (EDA) and creating dashboards
 The process of conducting Exploratory Data Analysis (EDA) and creating dashboards was carried out using Google BigQuery and Looker Studio.
 - [Google BigQuery - EDA](https://console.cloud.google.com/bigquery?sq=516129896092:caf01154b224482ba6a591bd3af72352) <br>
-- [Looker Studio - Kimia Farma Business Performance Analysis Dashboard] (https://lookerstudio.google.com/reporting/20b7e525-724e-4324-93a4-93ff8656b211) <br>
+- [Looker Studio - Kimia Farma Business Performance Analysis Dashboard](https://lookerstudio.google.com/reporting/20b7e525-724e-4324-93a4-93ff8656b211) <br>
+
+ ![D](https://raw.githubusercontent.com/Rezikadamayanti/Archival-Documentation-Project/main/pbi/Kimia_Farma_Business_Performance_Analysis-1.png?token=GHSAT0AAAAAACSEYN53IZF42223PU6LG7KWZR7MTPQ)
+
+ [MIT LICENSE](https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/blob/main/LICENSE)
