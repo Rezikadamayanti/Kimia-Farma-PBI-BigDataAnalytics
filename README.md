@@ -41,7 +41,7 @@ The requirements for creating a Data Mart named Analysis Table have been provide
     ![G](https://raw.githubusercontent.com/Rezikadamayanti/Archival-Documentation-Project/main/pbi/query2.png?token=GHSAT0AAAAAACSEYN536LRNEF4ZXYIK3ZDEZR7MFRQ)
 
 
-## D. Exploratory Data Analysis (EDA) and creating dashboards
+## D. Exploratory Data Analysis (EDA) and Dashboards
 The process of conducting Exploratory Data Analysis (EDA) and creating dashboards was carried out using Google BigQuery and Looker Studio.
 - [Google BigQuery - EDA](https://console.cloud.google.com/bigquery?sq=516129896092:caf01154b224482ba6a591bd3af72352) <br>
 - [Looker Studio - Kimia Farma Business Performance Analysis Dashboard](https://lookerstudio.google.com/reporting/20b7e525-724e-4324-93a4-93ff8656b211) <br>
