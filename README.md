@@ -21,16 +21,16 @@ As a Big Data Analytics intern at Kimia Farma, I've had the opportunity to evalu
 ## B. Dataset
 The dataset consists of four main tables:
 1. **kf_final_transaction**: This table contains information about the last transaction performed. Each row represents one transaction and includes details such as transaction ID code, product ID, branch ID, customer name, transaction date, product price, discount percentage, and customer rating of the transaction.
- ![kf_final_transaction_tabel](https://github.com/Rezikadamayanti/Archival-Documentation-Project/blob/main/pbi/kf_final_transaction.png)
+ ![f](https://raw.githubusercontent.com/Rezikadamayanti/Archival-Documentation-Project/main/pbi/kf_final_transaction.png?token=GHSAT0AAAAAACSEYN53NKMJDHJMB6GCQ2EEZR7KQ3Q)
 
 2. **kf_inventory**: This table stores information about the inventory of medicinal products in each Kimia Farma branch. This includes inventory ID, branch ID, product ID, product name, and the number of medicinal product stocks available at each branch.
-  ![kf_final_transaction_tabel](https://github.com/Rezikadamayanti/Archival-Documentation-Project/blob/main/pbi/kf_inventory.png)
+  ![i](https://github.com/Rezikadamayanti/Archival-Documentation-Project/blob/main/pbi/kf_inventory.png)
 
 3. **kf_office_branch**: This table contains information about Kimia Farma branch offices. Each row includes details such as branch ID, branch category, branch name, branch city, branch province, and customer rating of the branch.
-   ![kf_final_transaction_tabel](https://github.com/Rezikadamayanti/Archival-Documentation-Project/blob/main/pbi/kf_kantor_cabang.png)
+   ![t](https://github.com/Rezikadamayanti/Archival-Documentation-Project/blob/main/pbi/kf_kantor_cabang.png)
    
 4. **kf_product**: This table contains information about medicinal products sold at Kimia Farma. Each row includes details such as product ID, product name, product category, and product price.
-    ![kf_final_transaction_tabel](https://github.com/Rezikadamayanti/Archival-Documentation-Project/blob/main/pbi/kf_product.png)
+    ![f](https://github.com/Rezikadamayanti/Archival-Documentation-Project/blob/main/pbi/kf_product.png)
 
 
 ## C. Create and analyze Data Mart: Analysis Tables
