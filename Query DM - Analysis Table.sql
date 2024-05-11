@@ -1,3 +1,17 @@
+-- CREATE TABLE: Ini adalah pernyataan SQL untuk membuat tabel baru di basis data
+-- Tabel ini akan disebut tabel_analisa dan akan dibuat di basis data rakamin-kf-analytics-422902.kimia_farma
+-- WITH calculated_profits AS (...): Ini adalah bagian dari "Common Table Expressions" (CTE)
+-- Ini memungkinkan kita untuk menamai dan menggunakan hasil dari subquery yang kompleks dengan cara yang lebih mudah dibaca
+-- Dalam kasus ini, CTE disebut calculated_profits.
+-- SELECT ... FROM ... LEFT JOIN ... ON ...: Ini adalah subquery utama yang menghasilkan data yang akan dimasukkan ke dalam tabel baru.
+-- SELECT menentukan kolom-kolom yang akan dimasukkan ke dalam tabel baru.
+-- FROM menentukan tabel-tabel sumber data.
+-- LEFT JOIN digunakan untuk menggabungkan data dari beberapa tabel berdasarkan kunci yang cocok.
+-- ON menentukan kondisi untuk menggabungkan baris dari tabel-tabel yang berbeda.
+-- CASE ... END AS ...: Ini adalah ekspresi CASE yang digunakan untuk membuat kolom-kolom baru atau menghitung nilai berdasarkan kondisi tertentu.
+-- ROUND(): Ini adalah fungsi yang digunakan untuk membulatkan nilai numerik.
+-- AS: Ini digunakan untuk memberi alias atau menamai kolom-kolom yang dihasilkan oleh subquery
+
 CREATE TABLE `rakamin-kf-analytics-422902.kimia_farma.tabel_analisa` AS
 WITH calculated_profits AS (
   SELECT
