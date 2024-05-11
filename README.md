@@ -37,7 +37,9 @@ The dataset consists of four main tables:
 The requirements for creating a Data Mart named Analysis Table have been provided. This Analysis Table consists of 16 columns. Query creation involves analyzing each table in the 'rakamin-kf-analytics-422902' project and listing them in the chemical-pharma database previously created in Google BigQuery. The following query yields results in the form of a Data Mart, namely 'Analysis Table'.
 - [Query Data Mart - Analysis Table](https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/blob/main/Query%20DM%20-%20Analysis%20Table.sql)<br>
 - [Google BigQuery - Analysis Table](https://console.cloud.google.com/bigquery?sq=516129896092:caf01154b224482ba6a591bd3af72352) <br>
-<p align="left"> <img src="https://raw.githubusercontent.com/Rezikadamayanti/Archival-Documentation-Project/main/pbi/query.png?token=GHSAT0AAAAAACSEYN52XU26WREULBUY2GRCZR7LM7A" alt="query" width="100" height="100" /></a> 
+
+    ![f](https://raw.githubusercontent.com/Rezikadamayanti/Archival-Documentation-Project/main/pbi/query.png?token=GHSAT0AAAAAACSEYN52XU26WREULBUY2GRCZR7LM7A)
+    ![f](https://raw.githubusercontent.com/Rezikadamayanti/Archival-Documentation-Project/main/pbi/query2.png?token=GHSAT0AAAAAACSEYN53QTHTVX6XERRLRUIOZR7LP4Q)
 
 ## D. Exploratory Data Analysis (EDA) and creating dashboards
 The process of conducting Exploratory Data Analysis (EDA) and creating dashboards was carried out using Google BigQuery and Looker Studio
