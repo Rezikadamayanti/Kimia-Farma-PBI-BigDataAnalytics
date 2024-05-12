@@ -46,8 +46,10 @@ The process of conducting Exploratory Data Analysis (EDA) and creating dashboard
 - [Google BigQuery - EDA](https://console.cloud.google.com/bigquery?sq=516129896092:caf01154b224482ba6a591bd3af72352) <br>
 - [Looker Studio - Kimia Farma Business Performance Analysis Dashboard](https://lookerstudio.google.com/reporting/20b7e525-724e-4324-93a4-93ff8656b211) <br>
 
- ![Kimia_Farma_Business_Performance_Analysis (1)-1](https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/assets/72129326/131377fe-5cf1-47c0-8106-9ef744e79809)
+ ![Dasboard1](https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/assets/72129326/d334b945-2cc6-430e-87cc-aea74de56dc7)
 
- ![Kimia_Farma_Business_Performance_Analysis (1)-2](https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/assets/72129326/53aa2c60-b498-47b9-bbd9-c59a1ca46f09)
+ ![Dashboard 2](https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/assets/72129326/c5461a74-5759-4344-946c-f6de39027a78)
+
+ ![Dashboard 3](https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/assets/72129326/cf71f522-3177-4691-9328-246f1f8ea8c4)
 
  [MIT LICENSE](https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/blob/main/LICENSE)
