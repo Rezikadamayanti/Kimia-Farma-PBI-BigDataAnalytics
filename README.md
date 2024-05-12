@@ -20,16 +20,16 @@ As a Big Data Analytics intern at Kimia Farma, I've had the opportunity to evalu
 ## B. Dataset
 The dataset consists of four main tables:
 1. **kf_final_transaction**: This table contains information about the last transaction performed. Each row represents one transaction and includes details such as transaction ID code, product ID, branch ID, customer name, transaction date, product price, discount percentage, and customer rating of the transaction.
-        <img align="center" width="800" alt="kf_final_transaction" src="https://github.com/Rezikadamayanti/Archival-Documentation-Project/assets/72129326/ef09b558-472b-46fc-b6d4-2f2caf38f9c4">
+        <img align="center" width="800" alt="kf_final_transaction" src="https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/assets/72129326/a2ca1889-44b8-46e8-80e7-8cdd885eb541">
 
 2. **kf_inventory**: This table stores information about the inventory of medicinal products in each Kimia Farma branch. This includes inventory ID, branch ID, product ID, product name, and the number of medicinal product stocks available at each branch.
-        <img align="center" width="800" alt="kf_inventory" src="https://github.com/Rezikadamayanti/Archival-Documentation-Project/assets/72129326/cf91cc1c-be17-4e45-ad1b-c4c92b805af3">
+        <img align="center" width="800" alt="kf_inventory" src="https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/assets/72129326/b9851815-fa80-4ac0-b944-16ca4d76f1bc">
 
 3. **kf_kantor_cabang**: This table contains information about Kimia Farma branch offices. Each row includes details such as branch ID, branch category, branch name, branch city, branch province, and customer rating of the branch.
-        <img align="center" width="800" alt="kf_kantor_cabang" src="https://github.com/Rezikadamayanti/Archival-Documentation-Project/assets/72129326/166afe77-2c9a-486f-af36-39e4116430e2">
+        <img align="center" width="800" alt="kf_kantor_cabang" src="https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/assets/72129326/46b9a822-5450-4735-a112-0087f7f15199">
    
 4. **kf_product**: This table contains information about medicinal products sold at Kimia Farma. Each row includes details such as product ID, product name, product category, and product price.
-         <img align="center" width="800" alt="kf_product" src="https://github.com/Rezikadamayanti/Archival-Documentation-Project/assets/72129326/e293cecc-105d-4b52-88e2-1a6b75e0865f">
+         <img align="center" width="800" alt="kf_product" src="https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/assets/72129326/a889b919-17ce-45e1-94a2-2de8a61f952a">
 
 
 ## C. Create and analyze Data Mart: Analysis Tables
@@ -37,8 +37,8 @@ The requirements for creating a Data Mart named Analysis Table have been provide
 - [Query Data Mart - Analysis Table](https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/blob/main/Query%20DM%20-%20Analysis%20Table.sql)<br>
 - [Google BigQuery - Analysis Table](https://console.cloud.google.com/bigquery?sq=516129896092:caf01154b224482ba6a591bd3af72352) <br>
 
-    <img align="center" width="800" alt="query" src="https://github.com/Rezikadamayanti/Archival-Documentation-Project/assets/72129326/072cbad0-0663-4ad5-9ff4-0a1f10eea694">
-    <img align="center" width="800" alt="query2" src="https://github.com/Rezikadamayanti/Archival-Documentation-Project/assets/72129326/43cbc511-ab75-4194-9ec0-8a3462ff100f">
+    <img align="center" width="800" alt="query" src="https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/assets/72129326/3bf80c68-7258-447d-a00c-984bcf20c47a">
+    <img align="center" width="800" alt="query2" src="https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/assets/72129326/297b9162-1657-4ec9-bb9f-2f4f3c6d578e">
 
 
 ## D. Exploratory Data Analysis (EDA) and Dashboards
