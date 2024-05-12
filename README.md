@@ -20,16 +20,16 @@ As a Big Data Analytics intern at Kimia Farma, I've had the opportunity to evalu
 ## B. Dataset
 The dataset consists of four main tables:
 1. **kf_final_transaction**: This table contains information about the last transaction performed. Each row represents one transaction and includes details such as transaction ID code, product ID, branch ID, customer name, transaction date, product price, discount percentage, and customer rating of the transaction.
- ![f](https://github.com/Rezikadamayanti/Archival-Documentation-Project/blob/main/pbi/kf_final_transaction.png?raw=true)
+        <img align="center" width="800" alt="kf_final_transaction" src="https://github.com/Rezikadamayanti/Archival-Documentation-Project/assets/72129326/ef09b558-472b-46fc-b6d4-2f2caf38f9c4">
 
 2. **kf_inventory**: This table stores information about the inventory of medicinal products in each Kimia Farma branch. This includes inventory ID, branch ID, product ID, product name, and the number of medicinal product stocks available at each branch.
-  ![i](https://github.com/Rezikadamayanti/Archival-Documentation-Project/blob/main/pbi/kf_inventory.png?raw=true)
+        <img align="center" width="800" alt="kf_inventory" src="https://github.com/Rezikadamayanti/Archival-Documentation-Project/assets/72129326/cf91cc1c-be17-4e45-ad1b-c4c92b805af3">
 
 3. **kf_kantor_cabang**: This table contains information about Kimia Farma branch offices. Each row includes details such as branch ID, branch category, branch name, branch city, branch province, and customer rating of the branch.
-   ![t](https://github.com/Rezikadamayanti/Archival-Documentation-Project/blob/main/pbi/kf_kantor_cabang.png?raw=true)
+        <img align="center" width="800" alt="kf_kantor_cabang" src="https://github.com/Rezikadamayanti/Archival-Documentation-Project/assets/72129326/166afe77-2c9a-486f-af36-39e4116430e2">
    
 4. **kf_product**: This table contains information about medicinal products sold at Kimia Farma. Each row includes details such as product ID, product name, product category, and product price.
-    ![p](https://github.com/Rezikadamayanti/Archival-Documentation-Project/blob/main/pbi/kf_product.png?raw=true)
+         <img align="center" width="800" alt="kf_product" src="https://github.com/Rezikadamayanti/Archival-Documentation-Project/assets/72129326/e293cecc-105d-4b52-88e2-1a6b75e0865f">
 
 
 ## C. Create and analyze Data Mart: Analysis Tables
@@ -37,8 +37,8 @@ The requirements for creating a Data Mart named Analysis Table have been provide
 - [Query Data Mart - Analysis Table](https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/blob/main/Query%20DM%20-%20Analysis%20Table.sql)<br>
 - [Google BigQuery - Analysis Table](https://console.cloud.google.com/bigquery?sq=516129896092:caf01154b224482ba6a591bd3af72352) <br>
 
-    ![Q](https://github.com/Rezikadamayanti/Archival-Documentation-Project/blob/main/pbi/query.png?raw=true)
-    ![G](https://github.com/Rezikadamayanti/Archival-Documentation-Project/blob/main/pbi/query2.png?raw=true)
+    <img align="center" width="800" alt="query" src="https://github.com/Rezikadamayanti/Archival-Documentation-Project/assets/72129326/072cbad0-0663-4ad5-9ff4-0a1f10eea694">
+    <img align="center" width="800" alt="query2" src="https://github.com/Rezikadamayanti/Archival-Documentation-Project/assets/72129326/43cbc511-ab75-4194-9ec0-8a3462ff100f">
 
 
 ## D. Exploratory Data Analysis (EDA) and Dashboards
@@ -46,6 +46,6 @@ The process of conducting Exploratory Data Analysis (EDA) and creating dashboard
 - [Google BigQuery - EDA](https://console.cloud.google.com/bigquery?sq=516129896092:caf01154b224482ba6a591bd3af72352) <br>
 - [Looker Studio - Kimia Farma Business Performance Analysis Dashboard](https://lookerstudio.google.com/reporting/20b7e525-724e-4324-93a4-93ff8656b211) <br>
 
- ![D](https://github.com/Rezikadamayanti/Archival-Documentation-Project/blob/main/pbi/Kimia_Farma_Business_Performance_Analysis-1.png?raw=true)
+ ![Kimia_Farma_Business_Performance_Analysis-1](https://github.com/Rezikadamayanti/Archival-Documentation-Project/assets/72129326/b6ffe2aa-2d6a-4691-b183-1c603f83341f)
 
  [MIT LICENSE](https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/blob/main/LICENSE)
