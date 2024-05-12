@@ -46,6 +46,8 @@ The process of conducting Exploratory Data Analysis (EDA) and creating dashboard
 - [Google BigQuery - EDA](https://console.cloud.google.com/bigquery?sq=516129896092:caf01154b224482ba6a591bd3af72352) <br>
 - [Looker Studio - Kimia Farma Business Performance Analysis Dashboard](https://lookerstudio.google.com/reporting/20b7e525-724e-4324-93a4-93ff8656b211) <br>
 
- ![Kimia_Farma_Business_Performance_Analysis-1](https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/assets/72129326/dd6a4f49-d2b5-43fe-b80b-7db1ac65c655)
+ ![Kimia_Farma_Business_Performance_Analysis (1)-1](https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/assets/72129326/131377fe-5cf1-47c0-8106-9ef744e79809)
+
+ ![Kimia_Farma_Business_Performance_Analysis (1)-2](https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/assets/72129326/53aa2c60-b498-47b9-bbd9-c59a1ca46f09)
 
  [MIT LICENSE](https://github.com/Rezikadamayanti/Kimia-Farma-PBI-BigDataAnalytics/blob/main/LICENSE)
